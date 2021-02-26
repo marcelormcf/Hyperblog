@@ -7,6 +7,12 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera
+{
+    background: lightseagreen;
+    color: navajowhite;
+    font-weight: bold;
+}
 #container
 {
     width: 70%;

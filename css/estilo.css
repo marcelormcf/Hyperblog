@@ -26,3 +26,11 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    padding: 1cm;
+}

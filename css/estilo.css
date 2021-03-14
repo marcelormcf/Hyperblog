@@ -9,9 +9,16 @@ body
 }
 #cabecera
 {
-    background: lightseagreen;
-    color: navajowhite;
+    background: rgb(3, 12, 12);
+    color: rgb(241, 240, 238);
     font-weight: bold;
+    font-size: 60px;
+}
+
+#cabecera #logo
+{
+    width: 70px;
+    vertical-align: middle;
 }
 #container
 {

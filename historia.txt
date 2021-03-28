@@ -8,6 +8,8 @@ En camara parece bajo, pero en realidad es muy alto.
 
 master 1
 
+master 2
+
 anita Platzi esta muy emocionada de entrar al proyecto.
 
 Actualmente es el CEO de platzi.
